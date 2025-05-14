@@ -16,8 +16,7 @@ Our project was inspired by our group's interest in exploring how public sentime
 
 
                                                         Model:
-
-The predictive model for forecasting will be done using a Long Short-Term Memory (LSTM) recurrent neural network, as it can capture long-term dependencies and temporal patterns in sequential data. The model was trained on historical stock data augmented with daily sentiment scores to evaluate whether incorporating social media sentiment improves forecasting performance. The evaluation metric to judge its predicitve accuracy will be Root Mean Sqaured Error (RMSE).
+The predictive model for forecasting will be done using a Long Short-Term Memory (LSTM) recurrent neural network, as it can capture long-term dependencies and temporal patterns in Tesla Stock vwap and closing price. The evaluation metric to judge its predicitve accuracy will be Root Mean Sqaured Error (RMSE). From there, we'll use descriptive statistics to model the sentiment data (scatter plots) and merge the two datasets to identify the correlation strength between the two.
 
                                                       Technical Report
 https://docs.google.com/document/d/1tYTXHhVcIJsSIotTKGow3tdc1VsSGb5oYk6KhjMijLc/edit?usp=sharing 

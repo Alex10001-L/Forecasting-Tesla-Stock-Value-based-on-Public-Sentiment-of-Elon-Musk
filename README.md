@@ -1,5 +1,5 @@
 # Forecasting-Tesla-Stock-Value-based-on-Public-Sentiment-of-Elon-Musk
-**Note- This project was accomplish with 3 other individuals. I was responsible for scraping up Reddiment comments, forecasting Tesla stock, and correlation analysis.**
+**Note- This project was accomplish with 3 other individuals. I was responsible for scraping Reddit comments, forecasting Tesla stock prices, and performing correlation analysis, which is why only these specific code sections are included.**
 
                                                       Executive Summary
 

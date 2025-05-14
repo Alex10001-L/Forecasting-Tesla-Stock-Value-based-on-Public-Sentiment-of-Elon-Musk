@@ -3,7 +3,7 @@
 
                                                       Executive Summary
 
-Our group's collective interest inspired our project to understand how public sentiment may or may not affect stock prices. Given that Tesla has been one of the most popular topics on social media such as X, YouTube, and Reddit, we were interested in understanding how public sentiment on Elon Musk and Tesla has changed over time in the last 18 months. During the window we observed (October 2023 - April 2025), several major events involving Elon Musk and Tesla occurred, such as the launch of the Tesla Cybertruck and Elon Musk being appointed to lead the Department of Government Efficiency (DOGE). 
+Our project was inspired by our group's interest in exploring how public sentiment might influence stock prices. We focused on Tesla, a popular topic on platforms like X, YouTube, and Reddit, to analyze how public sentiment around Elon Musk and Tesla evolved over the past 18 months (October 2023 - April 2025). During this period, key events, such as the launch of the Tesla Cybertruck and Musk's appointment to lead the Department of Government Efficiency (DOGE), shaped public opinion.
 
                                                       Research Questions:
 1. "What is the projected Volume Weighted Average Price (VWAP) and closing price of Tesla stock at the end of May 2025? **Note-The time we made this forecast was on April 2025**
